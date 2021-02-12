@@ -1,4 +1,4 @@
-A dart package that can check is the INN valid or not
+A dart package that can check is the INN valid or 
 
 ### Проверка действительности ИНН
 
